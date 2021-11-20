@@ -1,5 +1,7 @@
 # Hi there 👋
 
+# ![Counter](https://profile-counter.glitch.me/H-H-C/count.svg)　<a href='https://hongchang.dev' target="_blank">hongchang.dev</a>
+
 <div>
   <a href="https://github.com/H-H-C/H-H-C/">
     <img src="https://komarev.com/ghpvc/?username=H-H-C" alt="H-H-C" />
